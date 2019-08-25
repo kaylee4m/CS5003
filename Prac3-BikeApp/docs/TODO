@@ -1,0 +1,25 @@
+[REQUIREMENT]
+- Design password validation using objection-password hashing
+
+[PRODUCTION]
+- Ensure that preflight check is disabled before final submission
+- Enforce pre-launch health check on all servers
+
+[FEAUTRES]
+
+[COMPLETED]
+* [REQUIREMENT] Wrote helper functions to get name from datetime
+* [REQURIREMENT] Finished LoginForm scaffolding
+* [REQUIREMENT] Searched for simple GPX data
+* [FEATURE] Added button colour to LoginForm
+* [REQUIREMENT] Designed stats card
+* [REQUIREMENT] Add Session Form
+* [REQUIREMENT] Designed basic responsive record card component
+* [REQUIREMENT] Fixed datetime function
+* [REQUIREMENT] Integrated Date Cards into Dashboard
+* [REQUIREMENT] Add Stats Card to Dashboard
+* [REQUIREMENT] Add drawer
+* [REQUIREMENT] Add average speed card and column
+* [REQUIREMENT] Add basic leaflet map
+* [REQUIREMENT] Create row for storing geojson data
+* [REQUIREMENT] Minimise code repetition in fetch request

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Black5Easy2011</name>
+<type>Route</type>
+<rtept lat="53.8112605585" lon="-3.0239600859">
+<name></name>
+<desc>Start / Finish Point - Stanley Park Clock Tower - Remeber to collect gate key from Leisure centre reception and return it at the end of the ride.</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8112547320" lon="-3.0246433760">
+<name></name>
+<desc>Head north towards the golf course</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8124679135" lon="-3.0246729353">
+<name>WP0002</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8135899341" lon="-3.0248521574">
+<name>WP0003</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8137618880" lon="-3.0257676451">
+<name>WP0035</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8143909446" lon="-3.0257829899">
+<name>WP0036</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8145784519" lon="-3.0248762492">
+<name>WP0037</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8144475398" lon="-3.0244174027">
+<name></name>
+<desc>Take exit so that lake is on your right handside</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8152249818" lon="-3.0228415174">
+<name>WP0005</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8160544338" lon="-3.0204314361">
+<name></name>
+<desc>Turn right across the lake</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8151808972" lon="-3.0174484236">
+<name></name>
+<desc>Toucan Crossing over East park Drive (ensure participants cross safely) then turn left</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8171682215" lon="-3.0162813505">
+<name></name>
+<desc>Right turn, golf course is on your left</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8173896060" lon="-3.0113500855">
+<name></name>
+<desc>Left Turn onto cycle path short steep hill with right turn at bottom - caution loose stones</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8174651681" lon="-3.0077063963">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8204807647" lon="-3.0071710444">
+<name>WP0011</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8218242923" lon="-3.0077349213">
+<name>WP0009</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8223357360" lon="-3.0056963453">
+<name>WP0010</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8188095244" lon="-3.0028018350">
+<name>WP0014</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8165153684" lon="-2.9976587213">
+<name>WP0015</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8141952274" lon="-2.9956291840">
+<name></name>
+<desc>Good Veiw of Marton Mere from here. Ride goes down a slight hill with bumps in- caution with novices.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8126307452" lon="-2.9946049355">
+<name>WP0017</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8115840725" lon="-2.9961748671">
+<name>WP0018</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8113183821" lon="-3.0011044722">
+<name>WP0019</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8110664661" lon="-3.0043637433">
+<name></name>
+<desc>Gate to side needs a key from Leisure centre reception. Horse stile passable with most bikes but not tag-a-longs or trailers, handcycles, use gate if needed. Lock it after use.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8107207743" lon="-3.0080763443">
+<name>WP0021</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8114867708" lon="-3.0131825006">
+<name>WP0022</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8130228080" lon="-3.0122322872">
+<name></name>
+<desc>Caution crossing Hotel Road - Ensure participants cross safely</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8138810092" lon="-3.0117213535">
+<name></name>
+<desc>Listen for Lions and Tigers ( in the Zoo)</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8138584280" lon="-3.0090628565">
+<name>WP0025</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8157229702" lon="-3.0064495273">
+<name>WP0026</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8174651681" lon="-3.0077063963">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8172400919" lon="-3.0130932855">
+<name>WP0028</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8170314960" lon="-3.0165058878">
+<name>WP0029</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8141455147" lon="-3.0176511986">
+<name></name>
+<desc>Caution crossing hotel road.  Ensure participants cross safely</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8125677216" lon="-3.0182205316">
+<name></name>
+<desc>Use Toucan to cross East park Drive back to park.  Ensure participants cross safely.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8123288882" lon="-3.0198854026">
+<name>WP0032</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8116413505" lon="-3.0214634177">
+<name>WP0033</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="53.8112605585" lon="-3.0239600859">
+<name></name>
+<desc>Start / Finish Point - Stanley Park Clock Tower - Remeber to collect gate key from Leisure centre reception and return it at the end of the ride.</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>

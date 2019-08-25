@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Glas5Steady2011</name>
+<type>Route</type>
+<rtept lat="55.8742331584" lon="-4.2792033996">
+<name></name>
+<desc>Start and Finish Point - Kelvinbridge Underground (Subway Station)</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8742963221" lon="-4.2806458824">
+<name></name>
+<desc>Look for signs for Forth and Clyde Canal and follow them heading north on the canal path</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8746776155" lon="-4.2794692315">
+<name>WP0009</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8750066203" lon="-4.2786891657">
+<name>WP0010</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8754835815" lon="-4.2771983351">
+<name>WP0011</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8761120307" lon="-4.2772351136">
+<name>WP0012</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8768648077" lon="-4.2778387335">
+<name>WP0013</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8774365471" lon="-4.2785117149">
+<name></name>
+<desc><![CDATA[Turn lert out of Kelvingrove park towards Big Blue & Kelvinbridge . Cont on cycle path ]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8777212060" lon="-4.2801271733">
+<name>WP0015</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8777453870" lon="-4.2812477435">
+<name>WP0016</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8778100060" lon="-4.2826105066">
+<name>WP0017</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8783234998" lon="-4.2839996245">
+<name>WP0018</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8788937226" lon="-4.2847525764">
+<name>WP0019</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8793292737" lon="-4.2854976396">
+<name>WP0020</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8796242218" lon="-4.2865542315">
+<name>WP0021</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8798668529" lon="-4.2880074836">
+<name>WP0022</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8800675475" lon="-4.2892983977">
+<name>WP0023</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8806662844" lon="-4.2909325443">
+<name>WP0024</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8814115589" lon="-4.2919357993">
+<name>WP0025</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8820444604" lon="-4.2917332411">
+<name>WP0026</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8824228890" lon="-4.2907161931">
+<name>WP0027</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8825694395" lon="-4.2900852256">
+<name>WP0028</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8829523086" lon="-4.2888285585">
+<name>WP0029</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8834145554" lon="-4.2881361942">
+<name>WP0030</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8838693796" lon="-4.2878431386">
+<name>WP0031</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8844785277" lon="-4.2889183616">
+<name>WP0032</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8848632224" lon="-4.2899804050">
+<name>WP0033</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8851266133" lon="-4.2903157308">
+<name>WP0034</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8853617648" lon="-4.2921685510">
+<name>WP0035</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8856206884" lon="-4.2927435009">
+<name>WP0036</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8862253289" lon="-4.2940584572">
+<name>WP0037</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8866040231" lon="-4.2954400792">
+<name>WP0038</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8870799269" lon="-4.2964276738">
+<name>WP0039</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8877398468" lon="-4.2971862815">
+<name>WP0040</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8898347022" lon="-4.2981096662">
+<name>WP0041</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8912966372" lon="-4.2992356395">
+<name>WP0042</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8918637775" lon="-4.3001488302">
+<name></name>
+<desc>Follow signs for Bowling, go up zig zag cycle path towards canal tow path. </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8923875150" lon="-4.3009795097">
+<name></name>
+<desc>Turn left along canal and cycle for approximately 2.9 miles until you see a small white shop on your left and a bridge over the canal to your right.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8920509026" lon="-4.3021591329">
+<name>WP0044</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8926270398" lon="-4.3049922127">
+<name>WP0045</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8930071040" lon="-4.3062942843">
+<name>WP0046</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8930175700" lon="-4.3081342493">
+<name>WP0047</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8930414920" lon="-4.3092552712">
+<name>WP0048</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8930594087" lon="-4.3106958246">
+<name>WP0049</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8932598600" lon="-4.3119872893">
+<name>WP0050</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8933913942" lon="-4.3145542263">
+<name>WP0051</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8941304591" lon="-4.3158778020">
+<name>WP0052</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8945896593" lon="-4.3177445751">
+<name>WP0053</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8953479952" lon="-4.3204290047">
+<name></name>
+<desc>Stay on the canal tow path heading towards Maryhill and city centre</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8974257644" lon="-4.3246320369">
+<name>WP0055</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8981979001" lon="-4.3241983104">
+<name>WP0056</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8989055455" lon="-4.3248005038">
+<name>WP0057</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8994887027" lon="-4.3272349331">
+<name>WP0058</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9013780787" lon="-4.3295077514">
+<name>WP0059</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9038907694" lon="-4.3344580032">
+<name>WP0060</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9042638509" lon="-4.3384801733">
+<name>WP0061</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9046116652" lon="-4.3414609531">
+<name>WP00147</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9054744514" lon="-4.3433528811">
+<name>WP0062</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9057993071" lon="-4.3475323950">
+<name>WP0063</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9037374004" lon="-4.3519675461">
+<name>WP0064</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9024949353" lon="-4.3534922062">
+<name></name>
+<desc>Cycle under double bridge of Great Western Road A82</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.9009565756" lon="-4.3540389786">
+<name>WP0066</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8996304248" lon="-4.3552384513">
+<name>WP00148</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8991152774" lon="-4.3563270323">
+<name>WP0067</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8983884484" lon="-4.3590824046">
+<name></name>
+<desc>At the white shop and the bridge turn left down Bard Avenue</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8971673317" lon="-4.3594881951">
+<name></name>
+<desc>At T junction with Archerhill Road turn left.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8944451842" lon="-4.3490861527">
+<name></name>
+<desc>At crossroads with Lincoln Avenue turn Right.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8913440982" lon="-4.3514578251">
+<name>WP0071</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8909385922" lon="-4.3515132730">
+<name>WP0072</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8903953751" lon="-4.3517203265">
+<name>WP0073</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8898133727" lon="-4.3516051656">
+<name>WP0074</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8893645052" lon="-4.3515780232">
+<name></name>
+<desc>Cycle past Kestral and Baldric Road on your left and once at crossroad with Alderman Road turn Left.  (Should now be able to follow the sign posted College Cycle Route)</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8892093567" lon="-4.3502892088">
+<name>WP0076</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8890541946" lon="-4.3490004044">
+<name></name>
+<desc>Take second exit at roundabout (Straight on) and then take next right into Alderman Place</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8891204076" lon="-4.3478849031">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8888138133" lon="-4.3474665752">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8883185348" lon="-4.3475166430">
+<name></name>
+<desc>Right turn into Wykeham Road with school on your right</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8879411640" lon="-4.3484534076">
+<name>WP0085</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8873317319" lon="-4.3497759396">
+<name>WP0086</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8868874357" lon="-4.3495092178">
+<name>WP0087</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8862278460" lon="-4.3487497481">
+<name></name>
+<desc>Straight over at crossroad with Anniesland Road on to Southbrae Drive.  Use crossing if necessary</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8858284342" lon="-4.3484857562">
+<name>WP0099</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8853887038" lon="-4.3479794658">
+<name>WP00100</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8850341770" lon="-4.3477181970">
+<name>WP00101</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8847694234" lon="-4.3474623509">
+<name>WP00102</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8845990102" lon="-4.3469723363">
+<name>WP00103</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8844719600" lon="-4.3465648967">
+<name>WP00104</name>
+<desc>Cross Great Western Road and onto Byers Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8844377257" lon="-4.3460031490">
+<name>WP00105</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8843121935" lon="-4.3455158515">
+<name>WP00106</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8841432934" lon="-4.3449459888">
+<name>WP00107</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8839386259" lon="-4.3438942539">
+<name>WP00109</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8838610121" lon="-4.3432499499">
+<name>WP00110</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8835695940" lon="-4.3420331031">
+<name>WP00112</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8832781636" lon="-4.3408162742">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8830719429" lon="-4.3398444441">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8829151523" lon="-4.3386357425">
+<name>WP00115</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8829843021" lon="-4.3373606761">
+<name>WP00116</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8830443467" lon="-4.3365647681">
+<name>WP00117</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8830670731" lon="-4.3353668591">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8830928156" lon="-4.3340092268">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8831003841" lon="-4.3336099227">
+<name></name>
+<desc>Right turn into Westbrae Drive and over the railway bridge</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8828729199" lon="-4.3337561794">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8819333118" lon="-4.3335399117">
+<name></name>
+<desc>At T junction opposite football pitch turn Left and then take the 1st Left which will you back on yourself and under the bridge you have just crossed.  Join the cycle path here past Scotstown.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8820846195" lon="-4.3326695433">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8827564178" lon="-4.3327897790">
+<name>WP00124</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8823892189" lon="-4.3355660149">
+<name>WP00125</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8815539725" lon="-4.3369549414">
+<name>WP00126</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8796459660" lon="-4.3380394968">
+<name>WP00127</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8786326609" lon="-4.3393376253">
+<name>WP00128</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8776581573" lon="-4.3409577839">
+<name></name>
+<desc>Continue on this path until you have been through the underpass of Victoria Park Drive South - A814 and reached T juction of Dumbarton Road.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8764622355" lon="-4.3424046553">
+<name>WP00158</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8760491354" lon="-4.3428594099">
+<name></name>
+<desc>Turn Left onto Dumbarton Road then immediately right onto Primrose Street</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8758322961" lon="-4.3424466691">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8748219860" lon="-4.3435848703">
+<name></name>
+<desc>Left turn onto South Street Cycle path </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8728634343" lon="-4.3378717656">
+<name>WP00133</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8714598957" lon="-4.3313133040">
+<name>WP00134</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8709715003" lon="-4.3262486722">
+<name></name>
+<desc>Cont. Onto Castlebank Street</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8694895921" lon="-4.3190469134">
+<name>WP00136</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8690469255" lon="-4.3163031759">
+<name></name>
+<desc>Use cycle crossing to cross Castlebank street rejoin cycle path. </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8693284084" lon="-4.3132828574">
+<name></name>
+<desc>Follow cycle path sighposts for Bells bridge</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8694033507" lon="-4.3092911620">
+<name>WP00139</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8687030997" lon="-4.3058929121">
+<name>WP00140</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8669643455" lon="-4.3027530275">
+<name>WP00141</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8651657050" lon="-4.3004090311">
+<name>WP00142</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8637335772" lon="-4.2976873360">
+<name>WP00143</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8633638332" lon="-4.2958275766">
+<name></name>
+<desc>Cross cycle crossing over bridge, rejoin cycle path </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8627339020" lon="-4.2958703366">
+<name>WP00145</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8625722080" lon="-4.2949018975">
+<name></name>
+<desc>Turn right onto Glenorchy Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8612659688" lon="-4.2950646176">
+<name></name>
+<desc>Turn Left onto Clyde cycle path near Helipad</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8600804526" lon="-4.2911593685">
+<name>WP00148</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8590862295" lon="-4.2866263895">
+<name></name>
+<desc>Turn left at Crown Plaza/Bells Bridge/SECC</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8601769096" lon="-4.2859713134">
+<name>WP00150</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8608457986" lon="-4.2862503016">
+<name></name>
+<desc>Cont through cycle path on the SECC Tunnel</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8624884823" lon="-4.2849084199">
+<name>WP00152</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8621215043" lon="-4.2828891954">
+<name></name>
+<desc>Exit SECC Tunnel at SECC Train Station Cont onto Minerva Street</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8633423928" lon="-4.2824813294">
+<name></name>
+<desc>Turn Left onto St Vincent Crescent</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8640655268" lon="-4.2846813372">
+<name>WP00155</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8644621203" lon="-4.2851041746">
+<name></name>
+<desc>Turn right onto Corunma Street </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8651473092" lon="-4.2845050869">
+<name></name>
+<desc>Turn left onto Argyll Street </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8654901231" lon="-4.2854042641">
+<name></name>
+<desc>Turn Right onto Darby street</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8670938330" lon="-4.2837402344">
+<name></name>
+<desc>Turn Right onto Parkgrove Terrace.  There is a short climb till you get to the cross roads with Clifton Street (No Entry signs straight across).  Turn left on to Clifton street</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8669670164" lon="-4.2784582483">
+<name>WP2011149</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8678154793" lon="-4.2787476716">
+<name></name>
+<desc>At wide crossroads turn left at corner of park on to Park Gardens.  Follow this to end and enter Kelvingrove Park</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8684789946" lon="-4.2817435742">
+<name>WP2011151</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8694354700" lon="-4.2834780191">
+<name>WP2011151</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8702839197" lon="-4.2837675714">
+<name>WP2011151</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8713864280" lon="-4.2824735176">
+<name>WP2011151</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8722837048" lon="-4.2801282939">
+<name></name>
+<desc>Follow path through the park to the north exit with Eldon Street.  Head straight across at junction picking up the Kelvin walkway / cycleway.  Now on Park Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8730704736" lon="-4.2788955137">
+<name></name>
+<desc>At mini roundabout turn left on to cobbled street with speed bumps.  Follow this round until you approach the start / finish point of the ride</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8736422080" lon="-4.2795684433">
+<name>WP2011151</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8742331584" lon="-4.2792033996">
+<name></name>
+<desc>Start and Finish Point - Kelvinbridge Underground (Subway Station)</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>

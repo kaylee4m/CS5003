@@ -1,0 +1,53 @@
+{
+  "name": "cs5003-assignment-03",
+  "version": "1.0.0",
+  "description": "Code submission for CS5003 Assignment 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "server": "nodemon --exec babel-node src/server/app.js",
+    "start": "concurrently \"npm run server \" \"cd src/client && npm start \""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/node": "^7.2.2",
+    "@babel/polyfill": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "create-react-app": "^2.1.8",
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.12.0",
+    "faker": "^4.1.0",
+    "jest": "^24.7.1",
+    "koa-logger": "^3.2.0",
+    "nodemon": "^1.18.10",
+    "parcel-bundler": "^1.12.3",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "@babel/register": "^7.4.0",
+    "concurrently": "^4.1.0",
+    "dotenv": "^7.0.0",
+    "joi": "^14.3.1",
+    "knex": "^0.16.3",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-passport": "^4.1.1",
+    "koa-res": "^3.1.1",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "leaflet": "^1.4.0",
+    "mysql": "^2.16.0",
+    "objection": "^1.6.7",
+    "objection-password": "^2.0.0",
+    "uuid": "^3.3.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

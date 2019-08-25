@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Lon19Easy</name>
+<type>Route</type>
+<rtept lat="51.4451456040" lon="-0.0262238791">
+<name></name>
+<desc><![CDATA[Start from the front of Catford Bridge Station, Adenmore RoadNote : Follow the cycle path signposted CN 21 to Lower Sydenham, through the bollards , under the Catford Bridge, through the pillars and then right follow the Green cycle path.Caution: Riders must dismount to cross the bollards and the pillars.]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0001.JPG"></link>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4428100000" lon="-0.0262700000">
+<name></name>
+<desc><![CDATA[Under the Bridge (follow the Green cycle Path). Then turn first left Note : Halfords Cycle Store and other Hardware stores on your left.On the Right side of the road look for signs for Cycle Path (CN21)]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0006.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4408569125" lon="-0.0256996323">
+<name></name>
+<desc><![CDATA[Across the bollards into the Green Cycle path in front of the  Halfords  Hardware store]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0007.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4371900000" lon="-0.0266300000">
+<name></name>
+<desc><![CDATA[Cruise along the cycle path beside the riverCaution: The path narrows, expect pedestrians, dog walkers and other cyclists emerging from the other side.]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4338800000" lon="-0.0283200000">
+<name></name>
+<desc>Follow the cycle path over the bridge and turn left</desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0009.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4328900000" lon="-0.0296800000">
+<name></name>
+<desc><![CDATA[follow the cycle  through the bollardsCaution : Riders must dismount]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0011.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4307921672" lon="-0.0310761853">
+<name></name>
+<desc><![CDATA[Follow the cycle path over the Bridge then follow the cycle path CN21 to Lower Sydenham , there will be another blue bridge cross of left hand side.Caution: Riders must dismount , if riding then remain in single file]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0012.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4284098142" lon="-0.0324749627">
+<name></name>
+<desc><![CDATA[Through the gates across the Soutend Road (Railway Tavern is across the Road)Caution : All cyclists must dismount, this is a busy road and take all precautions when crossing the road.]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0015.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4273331889" lon="-0.0332098873">
+<name></name>
+<desc>Across the Road (Railway Tavern Pub) through the Fambridge Road, cross the gate into the Fambridge Close, follow the the Road round Fambridge Road </desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0016.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4246900000" lon="-0.0337500000">
+<name></name>
+<desc>Follow the road into Westerlet Crescent then turn left into Kangley Bridge Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4247300000" lon="-0.0342200000">
+<name></name>
+<desc>Turn Left and Follow the Road (Kangley Bridge Road)</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4229600000" lon="-0.0348700000">
+<name>WP0012</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4213721130" lon="-0.0364024307">
+<name></name>
+<desc>Follow the Kangley Bridge Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4193400000" lon="-0.0395300000">
+<name></name>
+<desc><![CDATA[Follow the Road onto Left into the Cycle path (CN21 To New Beckenham) and along the Pool RiverCaution : Must Dismount to cross the bollards and gate.]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0017.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4167986062" lon="-0.0400410216">
+<name></name>
+<desc><![CDATA[Follow cycle path , across the Lennard Road into Cator ParkCaution : Look both ways before crossing as cars approaching from both sides.Riders must dismount to cross the gate.Dont take alternative route, just straight across the road into the park]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0018.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4155800000" lon="-0.0407500000">
+<name></name>
+<desc>Follow the Cycle Path in the Cator Park turn right</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4140800000" lon="-0.0413500000">
+<name></name>
+<desc><![CDATA[Follow the cycle path around Cator ParkCaution : Beware of other pedestrians , dog walkers and other cyclists]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4120200000" lon="-0.0409200000">
+<name>WP0018</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4123800000" lon="-0.0374000000">
+<name></name>
+<desc>From Cator Park exit into Kings Hall Road and follow the road to left</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4137400000" lon="-0.0367400000">
+<name></name>
+<desc><![CDATA[Right Turn into Bridge RoadCaution : Busy mini round about and uphill into Bridge Road.]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4138672473" lon="-0.0351243268">
+<name></name>
+<desc><![CDATA[Straight into park road.Caution : Minor road meeting major road , control yoru speed as this is downhill and you may encouter queue of cars.]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4141933669" lon="-0.0334296414">
+<name></name>
+<desc><![CDATA[Across the Coper Cope Road , straight into Lawn RoadCaution: Look both ways before crossing the road]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4150184530" lon="-0.0312882541">
+<name></name>
+<desc><![CDATA[Turn Right into Park RoadCaution : Cars approaching from both sides.]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4130666001" lon="-0.0244064688">
+<name></name>
+<desc>Cross the Road (Southend Road A2015) , and immediatley left into Beckenham Gardens (The Road is in between Southend Road and Foxgrove Road). The house in the front has Wisteria Flower Tree </desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0023.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4159324510" lon="-0.0216503842">
+<name></name>
+<desc><![CDATA[Enter into the Beckenham Place Golf Course though the side of the Main gates.Caution : Riders must dismount to enter the Golf park.]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0024.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4215200000" lon="-0.0171100000">
+<name></name>
+<desc><![CDATA[Follow the Cycle PathCaution : Beware of Golfers and their cars and other pedestrians]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4231900000" lon="-0.0156900000">
+<name></name>
+<desc><![CDATA[Exiting from the Downhill Entrance , across the Beckenham Hill Road (A2015)Straight into Dunfield (Dunfield Road)Caution : Dunfield Road is only accessible through footpath , then follow the cycle path straight.]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4258774736" lon="-0.0182029562">
+<name></name>
+<desc><![CDATA[Straight across the Sounth End Lane, into the Dunfield RoadCaution: Traffic Lights, minor road meeting major road with fast approaching cars on both sides.]]></desc>
+<link href="S:\Recreation\SKY\Skyride Local\SkyRride Local 2010\Route  Ride Planning\BC Route Planning Team\London\Routes Submitted\London Route 19_Beckenham and Back\DSC_0025.JPG"></link>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4270000000" lon="-0.0192300000">
+<name></name>
+<desc>follow the Dunfield Road into the Brookehows Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4328800000" lon="-0.0221400000">
+<name></name>
+<desc><![CDATA[Turn Left into BroadMead Caution: You can easily miss this trun , look for road name plate which could be hidden in the bush. The Road name is also written on top of the side wall of the house on the croner.]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4331384979" lon="-0.0260324001">
+<name></name>
+<desc><![CDATA[Turn Left into Firhill RoadCaution : Slightly uphill , humps on the road, parked cars]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4289911253" lon="-0.0293913382">
+<name></name>
+<desc>Take the 3rd Right into Moremead</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4294403158" lon="-0.0312558367">
+<name></name>
+<desc>Look for a set of bollards on the Right Hand Side , enter into the cycle path from the bollards under the bridge and then follow the cycle path along the river on the same route from where we started.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4316512921" lon="-0.0302087068">
+<name>WP0034</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4334813569" lon="-0.0283472889">
+<name></name>
+<desc>Follow the cycle path over the blue bridge then right </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4408983163" lon="-0.0251507926">
+<name></name>
+<desc>Follow the path along the river</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4435200000" lon="-0.0260800000">
+<name></name>
+<desc>Under The Bridge</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="51.4454062051" lon="-0.0259086935">
+<name></name>
+<desc>Finish, from where we started.</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Glas10Easy</name>
+<type>Route</type>
+<rtept lat="55.8785967164" lon="-4.1771355856">
+<name></name>
+<desc>START/FINISH Hogganfield Loch Carpark</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8775404763" lon="-4.1758774346">
+<name></name>
+<desc>Turn right out of car park and follow route anti clockwise around the Loch</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8762193056" lon="-4.1718068534">
+<name>WP0003</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8765967511" lon="-4.1707887655">
+<name>WP0004</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8775577899" lon="-4.1698031995">
+<name>WP0005</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8782691533" lon="-4.1676845338">
+<name>WP0006</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8787714051" lon="-4.1672328782">
+<name>WP0007</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8804927789" lon="-4.1664493893">
+<name>WP0008</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8814299006" lon="-4.1668213498">
+<name>WP0009</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8817890405" lon="-4.1668413516">
+<name>WP0010</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8813568909" lon="-4.1684161756">
+<name>WP0011</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8812544466" lon="-4.1691299656">
+<name>WP0012</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8813343823" lon="-4.1696940343">
+<name>WP0013</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8815812146" lon="-4.1709869211">
+<name>WP0014</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8815208306" lon="-4.1718629468">
+<name>WP0015</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8812850984" lon="-4.1724893439">
+<name>WP0016</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8809090480" lon="-4.1734276715">
+<name>WP0017</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8805736520" lon="-4.1746080826">
+<name>WP0018</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8801583370" lon="-4.1752244086">
+<name>WP0019</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8794132474" lon="-4.1767016288">
+<name>WP0020</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8790891187" lon="-4.1772430772">
+<name></name>
+<desc>Approaching the start of the second lap of the loch</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8785967164" lon="-4.1771355856">
+<name></name>
+<desc>START/FINISH Hogganfield Loch Carpark</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>

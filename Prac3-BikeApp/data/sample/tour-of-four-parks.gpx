@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Glas11Well</name>
+<type>Route</type>
+<rtept lat="55.8194240270" lon="-4.2441508856">
+<name></name>
+<desc>Start / Finish Point</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8190171017" lon="-4.2442871044">
+<name></name>
+<desc>Straight across Menock Road into Kings Park - Busy beware</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8162642217" lon="-4.2449268129">
+<name>WP12</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8135751433" lon="-4.2445326184">
+<name></name>
+<desc>Cross Carmunnock Road B766 - Busy road beware (Use Crossing)</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8133288644" lon="-4.2457155439">
+<name>WP14</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8106065359" lon="-4.2446810089">
+<name></name>
+<desc>Quite often parked cars at shops - take care</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8102864815" lon="-4.2449817934">
+<name></name>
+<desc><![CDATA[RIGHT into Drakemire Drive
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8094595308" lon="-4.2459715855">
+<name></name>
+<desc>RIGHT into Rockall Drive</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8098113783" lon="-4.2463908393">
+<name></name>
+<desc>Turn right onto Simshill Road </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8095577990" lon="-4.2479722134">
+<name>WP0010</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8084005556" lon="-4.2498206454">
+<name>WP17</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8080629873" lon="-4.2510779112">
+<name>WP0012</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8079381804" lon="-4.2529858041">
+<name>WP0013</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8075513068" lon="-4.2544795643">
+<name>WP0014</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8074425288" lon="-4.2555106087">
+<name>WP0015</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8076016222" lon="-4.2566369364">
+<name>WP18</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8077055719" lon="-4.2583186491">
+<name>WP0017</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8072361749" lon="-4.2594085979">
+<name>WP19</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8064237563" lon="-4.2596009269">
+<name>WP20</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8066218423" lon="-4.2610486748">
+<name>WP0020</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8070185280" lon="-4.2614706343">
+<name>WP21</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8082657238" lon="-4.2596278177">
+<name>WP0022</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8084150355" lon="-4.2588384989">
+<name>WP22</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8089585702" lon="-4.2561568456">
+<name>WP0024</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8097782930" lon="-4.2555658591">
+<name>WP23</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8114158428" lon="-4.2569373930">
+<name>WP24</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8128235308" lon="-4.2561409817">
+<name>WP25</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8132173078" lon="-4.2567224044">
+<name>WP0209</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8134139619" lon="-4.2582501142">
+<name></name>
+<desc><![CDATA[Rejoin residential streets
+(Snuff Mill Rd – Old Castle Rd))
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8144074026" lon="-4.2579883978">
+<name>WP0214</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8149172903" lon="-4.2571400069">
+<name>WP27</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8174570157" lon="-4.2583245963">
+<name></name>
+<desc><![CDATA[Roundabout
+Old Castle Rd @
+Devlin Rd / Manse Brae
+Route crosses pavement and onto cycle path on left side of Old Castle Rd opposite, and under railway bridge
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8180708402" lon="-4.2591583076">
+<name>WP28</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8185455938" lon="-4.2602234385">
+<name>WP0034</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8185743671" lon="-4.2611030996">
+<name></name>
+<desc><![CDATA[Crossing Holmlea Road into Spean Street
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8187334062" lon="-4.2622297720">
+<name>WP0036</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8194428502" lon="-4.2627498452">
+<name>WP29</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8229266743" lon="-4.2639099399">
+<name>WP30</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8233999167" lon="-4.2650550044">
+<name>WP0039</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8227464917" lon="-4.2663740910">
+<name>WP0040</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8234103439" lon="-4.2693663023">
+<name></name>
+<desc>Diversion due to Closed Path - ALTERNATIVE OPTION:  - Cartside Rd turn LEFT into Sinclair St, across footbridge, follow path to join Kintore Rd, under railway bright to T-junction, RIGHT into Newlands Rd, follow to Kilmarnock Rd, straight across into Riverford Rd to rejoin route at 6.4km</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8205219363" lon="-4.2724708908">
+<name></name>
+<desc>Turn right onto Earlspark Avenue</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8229513723" lon="-4.2820320603">
+<name>WP0043</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8234530523" lon="-4.2840571252">
+<name>WP0044</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8231703901" lon="-4.2847590136">
+<name></name>
+<desc>Right turn onto Corrour Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8236853623" lon="-4.2860664489">
+<name></name>
+<desc><![CDATA[LEFT into Kilmarnock Rd then 1st RIGHT into Auldhouse Rd
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8232305414" lon="-4.2863590914">
+<name>WP0047</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8219024519" lon="-4.2901128123">
+<name></name>
+<desc>RIGHT into Riverford Rd</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8244555273" lon="-4.2929770094">
+<name></name>
+<desc>LEFT into Riverbank St</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8237420448" lon="-4.2950904267">
+<name>WP0050</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8238035500" lon="-4.2966107990">
+<name>WP0051</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8240086396" lon="-4.2976606634">
+<name></name>
+<desc>Entrance to Pollok Country Park</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8246551595" lon="-4.2991357212">
+<name>WP0053</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8269625504" lon="-4.3007088462">
+<name></name>
+<desc>Left onto footpath</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8271182392" lon="-4.3019954100">
+<name>WP37</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8261038962" lon="-4.3057675408">
+<name>WP0056</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8259902053" lon="-4.3094331694">
+<name>WP38</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8263447768" lon="-4.3120887152">
+<name>WP0058</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8262295160" lon="-4.3134390632">
+<name>WP0059</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8259107979" lon="-4.3136596504">
+<name>WP39</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8253152491" lon="-4.3142629657">
+<name>WP0061</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8252074685" lon="-4.3152145551">
+<name>WP40</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8264433301" lon="-4.3164056412">
+<name>WP0063</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8274562397" lon="-4.3175037121">
+<name>WP41</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8280576291" lon="-4.3189765544">
+<name>WP42</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8287953783" lon="-4.3179825282">
+<name>WP0066</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8288134043" lon="-4.3170255230">
+<name>WP43</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8299145812" lon="-4.3182087703">
+<name>WP44</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8306493205" lon="-4.3173741913">
+<name>WP0069</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8313556802" lon="-4.3156596002">
+<name>WP0070</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8317956855" lon="-4.3137694429">
+<name>WP0071</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8338710513" lon="-4.3133337055">
+<name>WP46</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8350412231" lon="-4.3108478904">
+<name>WP0073</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8352791587" lon="-4.3077477380">
+<name></name>
+<desc>Open Water</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8338603673" lon="-4.2995190410">
+<name></name>
+<desc>5-way junction near gates N of Pollok House</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8321156627" lon="-4.2990967183">
+<name>WP49</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8314614736" lon="-4.2956248039">
+<name></name>
+<desc>Out on to Shawmoss Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8318429007" lon="-4.2944495868">
+<name>WP50</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8345081347" lon="-4.2864617086">
+<name></name>
+<desc>Right onto Titwood Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8344253103" lon="-4.2836620782">
+<name></name>
+<desc>Take Darnley Road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8381709694" lon="-4.2731007380">
+<name></name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8380031975" lon="-4.2724520897">
+<name></name>
+<desc>RIGHT at Darnley Rd traffic lights and IMMEDIATELY into right-hand cycle lane (Nithsdale Dr)</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8375528275" lon="-4.2725056828">
+<name></name>
+<desc>Use Cycle Lane </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8359956804" lon="-4.2692207379">
+<name>WP55</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8347888113" lon="-4.2713064438">
+<name>WP0085</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8352259281" lon="-4.2719707351">
+<name>WP0086</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8350419507" lon="-4.2721995645">
+<name>WP56</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8332316311" lon="-4.2728925013">
+<name>WP57</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8323463017" lon="-4.2745974868">
+<name>WP0089</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8319408203" lon="-4.2746536688">
+<name>WP58</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8289700534" lon="-4.2724843324">
+<name>WP59</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8287993314" lon="-4.2719953470">
+<name>WP60</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8284247664" lon="-4.2703767558">
+<name></name>
+<desc>Cafe / Toilets</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8283702909" lon="-4.2684574746">
+<name>WP02</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8263318661" lon="-4.2717717093">
+<name></name>
+<desc>Millbrae Rd @ Ledard Rd LEFT turn.  Fast descent </desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8237088770" lon="-4.2629175925">
+<name></name>
+<desc>Turn LEFT on to Battlefield Ave and @ Battlefield Rd RIGHT turn at T-junction onto main road</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8251327265" lon="-4.2612439532">
+<name>WP05</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8242500802" lon="-4.2579197639">
+<name></name>
+<desc><![CDATA[Traffic lights at T-junction LEFT turn on to Cathcart Rd
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8247555792" lon="-4.2573103976">
+<name>WP0063</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8247687451" lon="-4.2565926881">
+<name></name>
+<desc><![CDATA[Cathcart Rd / Letherby Dr / Carmunnock Rd / Mount Annan Dr - Uphill approach;
+RIGHT turn, through bus stances area, then RIGHT into Carmunnock Rd and IMMEDIATELY LEFT into Mount Annan Dr
+]]></desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8244603632" lon="-4.2562555209">
+<name>WP0064</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8238133234" lon="-4.2547811693">
+<name>WP0065</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8238874324" lon="-4.2531888884">
+<name></name>
+<desc>RIGHT turn onto Knockhill Drive</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8234429095" lon="-4.2529237174">
+<name></name>
+<desc>LEFT turn onto Kinmount Avenue</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8235578321" lon="-4.2490986331">
+<name></name>
+<desc>Straight over Aikenhead Road onto Ardmay Creasent</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8232453294" lon="-4.2465261462">
+<name></name>
+<desc>RIGHT turn onto Kingswood Drive</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8223011708" lon="-4.2465515726">
+<name></name>
+<desc>Bear LEFT on to Kinghouse Avenue</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8214251937" lon="-4.2453037567">
+<name>WP0068</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8208721639" lon="-4.2435956515">
+<name></name>
+<desc>RIGHT turn at T junction on to  Kingsbridge Drive and then straight over main road back to start / finish point</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8194240270" lon="-4.2441508856">
+<name></name>
+<desc>Start / Finish Point</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>

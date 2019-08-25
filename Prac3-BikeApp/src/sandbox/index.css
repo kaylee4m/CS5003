@@ -1,0 +1,24 @@
+    #mapid { height: 900px; } 
+
+  
+  .bargrafik .leftval{
+    color:orange;
+    background-color:orange;
+    width:5px;
+  }
+  
+  .bargrafik .rightval{
+    color:yellow;
+    background-color:yellow;
+    width:5px;
+  }
+  
+  .saritext {
+    color:yellow;
+    font-size:10px;
+  }
+  
+  .yesiltext {
+    color:orange;
+    font-size:10px;
+  }

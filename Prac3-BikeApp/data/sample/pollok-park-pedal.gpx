@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Glas2Easy2011</name>
+<type>Route</type>
+<rtept lat="55.8283866627" lon="-4.3205929078">
+<name></name>
+<desc>Start / Finish Point - Car park to West of Pollok House</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8267156632" lon="-4.3162621529">
+<name></name>
+<desc>Head out on the path that runs along the north side of the river.  You will soon meet the Old Stable Courtyard area</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8255949543" lon="-4.3161157317">
+<name>WP0402</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8251400651" lon="-4.3164080350">
+<name>WP0404</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8248842449" lon="-4.3156743497">
+<name>WP0405</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8249052525" lon="-4.3145579538">
+<name>WP0406</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8253257479" lon="-4.3137047612">
+<name>WP0407</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8258704080" lon="-4.3134177524">
+<name>WP0408</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8263342853" lon="-4.3126469349">
+<name>WP0409</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8260949230" lon="-4.3110360537">
+<name>WP0410</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8258465573" lon="-4.3099036607">
+<name>WP0411</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8258525431" lon="-4.3071896764">
+<name>WP0412</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8262130980" lon="-4.3047361555">
+<name>WP0413</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8268818567" lon="-4.3026201351">
+<name>WP0414</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8270389048" lon="-4.3014318746">
+<name>WP0415</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8268278838" lon="-4.3007008984">
+<name></name>
+<desc>Route eventually joins Park Access Road, turn left here and follow until you meet the path on your right sign posted Burrell Collection</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8276628734" lon="-4.3017082241">
+<name>WP0417</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8282540025" lon="-4.3037390863">
+<name>WP0418</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8285174234" lon="-4.3064691769">
+<name>WP0419</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8287329012" lon="-4.3093561452">
+<name>WP0420</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8288451079" lon="-4.3105603880">
+<name></name>
+<desc>Turn right at the sign post up short hill, road narrows at top one way traffic approaching Burrell Collection</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8298416415" lon="-4.3101404103">
+<name>WP0422</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8302636041" lon="-4.3092073085">
+<name>WP0423</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8303622813" lon="-4.3039435357">
+<name></name>
+<desc>Route takes to footpath</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8309158782" lon="-4.3031778213">
+<name>WP0425</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8318989520" lon="-4.3034754514">
+<name>WP0426</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8328311624" lon="-4.3040894815">
+<name>WP0427</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8331872850" lon="-4.3042702322">
+<name></name>
+<desc>Off camber right turn just after top of climb</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8333877463" lon="-4.3031642004">
+<name>WP0429</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8334086426" lon="-4.3020475509">
+<name></name>
+<desc>After crossing bridge and turning right route takes left fork up short hill</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8337811811" lon="-4.3013509095">
+<name>WP0431</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8341507329" lon="-4.3008137794">
+<name></name>
+<desc>4-way junction at top of climb - Turn left</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8344545132" lon="-4.3013906709">
+<name>WP0433</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8346161627" lon="-4.3023584330">
+<name>WP0434</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8350187588" lon="-4.3048576363">
+<name>WP0435</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8352417492" lon="-4.3073462590">
+<name>WP0436</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8352357543" lon="-4.3100608977">
+<name>WP0437</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8344725921" lon="-4.3124111976">
+<name>WP0438</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8332366147" lon="-4.3136154418">
+<name>WP0439</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8323852341" lon="-4.3134850543">
+<name>WP0440</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8318420738" lon="-4.3136923509">
+<name>WP0441</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8314978498" lon="-4.3152688208">
+<name>WP0442</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8308812721" lon="-4.3169887622">
+<name>WP0443</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8300941345" lon="-4.3182194493">
+<name>WP0444</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8295105864" lon="-4.3181847429">
+<name>WP0445</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8289001772" lon="-4.3171903609">
+<name></name>
+<desc>Right turn from path rejoins road Vehicular traffic entering/leaving Pollok House</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8287489875" lon="-4.3180596091">
+<name>WP0447</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8285125242" lon="-4.3186842603">
+<name></name>
+<desc>Right turn on approach to car park</desc>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8287234372" lon="-4.3194153629">
+<name>WP0449</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8284435825" lon="-4.3199575840">
+<name>WP0450</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="55.8283866627" lon="-4.3205929078">
+<name></name>
+<desc>Start / Finish Point - Car park to West of Pollok House</desc>
+<sym>House</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>
